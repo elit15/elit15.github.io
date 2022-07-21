@@ -1,11 +1,14 @@
 * {
-    margin: 0;
     font-family: 'Kurale', serif;
 }
 
 body {
     font-weight: 400;
-    background-color: #F8F8F8;
+    background-color: #ffff;
+}
+
+.navbar {
+    background-color: #fcdaa6;
 }
 
 .menu-principal {
@@ -16,7 +19,7 @@ body {
     background-image: url(../img/background1.jpg);
     background-size: cover;
     background-position: center;
-    padding: 240px;
+    padding-block: 240px;
     font-size: 30px;
 }
 
@@ -28,7 +31,7 @@ body {
 .titulo-portafolio {
     font-style: italic;
     text-align: center;
-    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 .card {
