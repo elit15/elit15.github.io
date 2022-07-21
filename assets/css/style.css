@@ -1,0 +1,35 @@
+* {
+    font-family: 'Kurale', serif;
+}
+
+body {
+    font-weight: 400;
+    background-color: #F8F8F8;
+}
+
+.menu-principal {
+    justify-content: flex-end;
+}
+
+#inicio {
+    background-image: url(/assets/img/background3.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 240px;
+    font-size: 30px;
+}
+
+.texto-inicio {
+    font-style: italic;
+}
+
+.titulo-portafolio {
+    font-style: italic;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.card {
+    padding: 0;
+    margin: 0;
+}
