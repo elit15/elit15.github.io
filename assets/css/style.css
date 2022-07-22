@@ -47,3 +47,8 @@ footer {
     background-color: #F7C873;
     font-style: italic;
 }
+
+.descripcion p {
+    font-size: 21px;
+    text-align: justify;
+}
